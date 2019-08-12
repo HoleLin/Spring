@@ -19,6 +19,7 @@ public class UserAspect {
     @After("pointCut()")
     public void after() {
 
+
         mLogger.info("after");
     }
     @AfterReturning("pointCut()")
