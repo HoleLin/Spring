@@ -1,0 +1,16 @@
+## Spring注解
+* 容器相关
+    * AnnotationConfigApplicationContext
+    * 组件添加
+    * 组件赋值
+    * 组件注入
+    * AOP
+    * 声明式事务
+* 扩展原理
+    * BeanFactoryPostProcessor
+    * BeanDefinitionRegistryPostProcessor
+    * ApplicationListener
+    * Spring容器创建过程
+* Web
+    * servlet3.0
+    * 异步请求

@@ -1,6 +1,8 @@
 package com.holelin.spring.lifetime.config;
 
+import org.aspectj.lang.annotation.Aspect;
 import org.springframework.beans.BeansException;
+import org.springframework.beans.factory.Aware;
 import org.springframework.beans.factory.config.BeanPostProcessor;
 import org.springframework.stereotype.Component;
 
